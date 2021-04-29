@@ -1,0 +1,59 @@
+#EXTM3U
+
+#EXTINF:-1,LOCOMOTION
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1,ANIME ZONE TV
+http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1,MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1,TELEFE TRUCHO
+http://coninfo.net:1935/13maxhd/live_720p/master.m3u8	
+
+
+
+#EXTINF:-1,TELEFE ROSARIO
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1,CANAL 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1,TELEMAX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3UCL
+
+
+
+
+#EXTINF:0 type="stream" channelid="-1" name= "ARG:CARTOON NETWORK" group="Argentina" logo="https://c0.klipartz.com/pngpicture/579/384/gratis-png-logo-de-cartoon-network-cartoon-network-logo-television-animation-cartoon-network.png" tvg-country="ARG", CARTOON NETWORK
+https://c6d34z8w3zavhqt3.ezcdn483.net:8443/hls/6lfyznozxwfmb5o.m3u8?s=YaYO3cADWGb_IP4XAR8OuQ&e=1619442290
+
+
+
+#EXTINF:0 type="stream" channelid="-1" name= "ARG:ELNUEVE" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" tvg-country="ARG", ELNUEVE
+https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/8dae8d5d-a947-4c50-9994-96838f30ea4d/0.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE5ODExNzYwLCJzZXNzaW9uIjoiMTg2LjEwOC4xNjUuMTMzIiwid2hpdGVsaXN0IjpbIjE4Ni4xMDguMTY1LjEzMyJdfSwic2lnbmF0dXJlIjoiYzMzNDk0NjMyZTgwYzY2OGU5M2EzMjM3NzQ5NjdhZDEyNTFkNGQ0NCJ9
+
+
+
+#EXTINF:0 type="stream" channelid="-1" name= "ARG:ELTRECE" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png" tvg-country="ARG", EL TRECE
+https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/Cu0EUfiihOqSAgSsXXd-uzfuc-_fplKfJH8MFsoZMCwZ7hrap_YZS6aaDJaTRiTuKZ5hdizu2uxRLIY_8BG9ZqJZDwlxmoz1w403sl3PTQnuqV595vMzJePYyh_VzxtB9ZkEzaINxgDoZvon9QPJQDA_TvwerCyxLOZ5A8W3UtAw-sk5oGApzaz2G59gBeN4_mJNyHDNSV4J47TeFIcBa7saYmEdJITs4bVcCZd92kyydtE55sZ5xsnGeS5JiGRkyFNEmdEtNNplkvOBmd2_q5aBMMb60FYKKrQwZFjhuDtEdyo8y1usgH4z__mrBVRlz7mL6SMCYAAR0HXxPUSQQX8RwDy8Lf0cnKlt1dseC1exCu7mdBF4xMHi8ldckHURidxRarlDl2O4LyYwskjavBoskDr5qW7beBVtDLBfThqYLQCesp0kR5gq7zL6JTVxRUzkSFU0TNZTpoNe96fjEGDgz3n0VL7QzW0k-g3rnu1-NER-XIAQuMe0gkyqQmUWIzBNlHiCZEoNRxhyOacWZaa0CKiCGPxmhvqKkSZSGHHl3xIFU883Y2u7DbAqCHIAtlaZ4__Y540spQ_6eNgtke3dxrA6Yh6cwZ03r6Qu5IKFZPoYl74Wtrj1v3CpmHLDOareJjKU8ZAoNRukGH_QxowybsboiSzdIZkq9E0fo_1IDoLpr2lsQU7XjeIFu2tkrnDiEjU6WtmwXBk63KaWWpIGyZvVAMWDf-XAkeyNRY9ukvLNGbvq37YVXDey-Z6CpDJwz5yCP5GZ11pJB7Tq_dgvWoU-1kp4p7ELpvXuvT0YPkG2_5BKLDWq97sfqlnvEhAYcnLDv2nQjcBihDnGyHuzGgytojHlOjlfd6K0Js8.m3u8
+
+
+
+#EXTINF:0 type="stream" channelid="-1" name= "ARG:TELEFE" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" tvg-country="ARG", TELEFE
+https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/master.m3u8?hdnea=st=1619733864~exp=1619741064~acl=/i/appmitelefe_1@326430/*~hmac=a5ba6826c325c12714f56e38b3f1559a7deb38714ed212ad7b548231308f7603
+
+
+#EXTINF:0 type="stream" channelid="-1" name= "MX:STAR CHANNEL" group="MX" logo="https://e7.pngegg.com/pngimages/810/273/png-clipart-fox-broadcasting-company-television-channel-fox-news-fox-television-animals.png" tvg-country="MX", FOX MEXICO
+https://c6d34z8w3zavhqt3.ezcdn483.net:8443/hls/0e733j.m3u8?s=lOCWWev852scP6rBejJmZg&e=1619511623
